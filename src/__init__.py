@@ -1,0 +1,1 @@
+"""Sales ingestion and dashboard API."""
